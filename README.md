@@ -184,17 +184,17 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 
 1. <span id = "1001">**[ZegFormer]**</span> | **CVPR'22** | ZegFormer: Decoupling Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2112.07910) | [`[code]`](https://github.com/dingjiansw101/ZegFormer)
 2. <span id = "1002">**[Xu et al.]**</span> | **ECCV'22** | A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model | [`[pdf]`](https://ArXiv.org/abs/2112.14757) | [`[code]`](https://github.com/MendelXu/zsseg.baseline)
-3. <span id = "1003">**[ZegCLIP]**</span> | **CVPR'23** | ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2212.03588) | [`[code]`](https://github.com/ZiqinZhou66/ZegCLIP)
-4. <span id = "1004">**[PADing]**</span> | **CVPR'23** | Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation | [`[pdf]`](https://ArXiv.org/abs/2306.11087) | [`[code]`](https://github.com/heshuting555/PADing)
-5. <span id = "1005">**[DeOP]**</span> | **ICCV'23** | Open Vocabulary Semantic Segmentation with Decoupled One-Pass Network | [`[pdf]`](https://ArXiv.org/abs/2304.01198) | [`[code]`](https://github.com/CongHan0808/DeOP)
-6. <span id = "1006">**[SPT]**</span> | **AAAI'24** | Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2312.12754) | [`[code]`](https://github.com/clearxu/SPT)
-7. <span id = "1006">**[Chen et al.]**</span> | **ArXiv'24.02** | Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2402.13697) 
-8. <span id = "1006">**[LDVC]**</span> | **ArXiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2403.08426) 
-9. <span id = "1006">**[OTSeg]**</span> | **ArXiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2403.14183) 
-10. <span id = "1006">**[Cascade-CLIP]**</span> | **ICML'24** | Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2406.00670) | [`[code]`](https://github.com/HVision-NKU/Cascade-CLIP)
-11. <span id = "1006">**[SimZSS]**</span> | **ArXiv'24.07** | A Simple Framework for Open-Vocabulary Zero-Shot Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2406.16085)
-12. <span id = "1006">**[CaR]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://ArXiv.org/pdf/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
-13. <span id = "1007">**[SM-VCENet]**</span> | **PRL'22** | Zero-Shot Semantic Segmentation via Spatial and Multi-Scale Aware Visual Class Embedding | [`[pdf]`](https://arxiv.org/abs/2111.15181)
+3. <span id = "1007">**[SM-VCENet]**</span> | **PRL'22** | Zero-Shot Semantic Segmentation via Spatial and Multi-Scale Aware Visual Class Embedding | [`[pdf]`](https://arxiv.org/abs/2111.15181)
+4. <span id = "1003">**[ZegCLIP]**</span> | **CVPR'23** | ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2212.03588) | [`[code]`](https://github.com/ZiqinZhou66/ZegCLIP)
+5. <span id = "1004">**[PADing]**</span> | **CVPR'23** | Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation | [`[pdf]`](https://ArXiv.org/abs/2306.11087) | [`[code]`](https://github.com/heshuting555/PADing)
+6. <span id = "1005">**[DeOP]**</span> | **ICCV'23** | Open Vocabulary Semantic Segmentation with Decoupled One-Pass Network | [`[pdf]`](https://ArXiv.org/abs/2304.01198) | [`[code]`](https://github.com/CongHan0808/DeOP)
+7. <span id = "1006">**[SPT]**</span> | **AAAI'24** | Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2312.12754) | [`[code]`](https://github.com/clearxu/SPT)
+8. <span id = "1006">**[Chen et al.]**</span> | **ArXiv'24.02** | Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2402.13697)
+9. <span id = "1006">**[LDVC]**</span> | **ArXiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2403.08426)
+10. <span id = "1006">**[OTSeg]**</span> | **ArXiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2403.14183)
+11. <span id = "1006">**[Cascade-CLIP]**</span> | **ICML'24** | Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2406.00670) | [`[code]`](https://github.com/HVision-NKU/Cascade-CLIP)
+12. <span id = "1006">**[SimZSS]**</span> | **ArXiv'24.07** | A Simple Framework for Open-Vocabulary Zero-Shot Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2406.16085)
+13. <span id = "1006">**[CaR]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://ArXiv.org/pdf/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
 
 ## Referring Image Segmentation
 
